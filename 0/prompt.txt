@@ -1,0 +1,9 @@
+01a1a1fb-eb58-7473-b59d-26a2172b6cb7
+
+---
+
+Add a run constrain for 'openai-harmony<1' to avoid co-installation
+
+---
+
+yes, do that instead

@@ -1,0 +1,28 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "01M6H0BZPJEXV5GR8Q93BJ37TW",
+  "strategy": "manual-commit",
+  "branch": "oss-harmony",
+  "checkpoints_count": 4,
+  "files_touched": [
+    "recipes/oss-harmony/cargo-auditable-wrapper.bat",
+    "recipes/oss-harmony/cargo-auditable-wrapper.sh",
+    "recipes/oss-harmony/recipe.yaml"
+  ],
+  "sessions": [
+    {
+      "metadata": "/0/metadata.json",
+      "transcript": "/0/full.jsonl",
+      "compact_transcript": "/0/transcript.jsonl",
+      "content_hash": "/0/content_hash.txt",
+      "prompt": "/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 605123,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 3199284,
+    "output_tokens": 44392,
+    "api_call_count": 75
+  }
+}

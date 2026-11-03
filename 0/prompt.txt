@@ -1,0 +1,13 @@
+Align the new oss-harmony recipe with how https://github.com/conda-forge/openai-harmony-feedstock/blob/main/recipe/recipe.yaml is implemented
+
+---
+
+Please review other recipe that also use maturin and cargo-bundle-licenses whether they use different patterns.
+
+---
+
+Also read the conda-forge skill on this
+
+---
+
+abi3audit structure: Let's use what polars is using
